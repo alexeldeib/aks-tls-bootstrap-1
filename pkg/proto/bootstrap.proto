@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/phealy/aks-tls-bootstrap;aks_tls_bootstrap";
+option go_package = "github.com/Azure/aks-tls-bootstrap;aks_tls_bootstrap";
 
 package aks_tls_bootstrap;
 

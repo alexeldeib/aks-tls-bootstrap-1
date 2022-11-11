@@ -7,7 +7,7 @@ import (
 	"math/rand"
 	"time"
 
-	pb "github.com/phealy/aks-tls-bootstrap/pkg/proto"
+	pb "github.com/Azure/aks-tls-bootstrap/pkg/proto"
 )
 
 func (s *TlsBootstrapServer) removeExpiredNonces() {

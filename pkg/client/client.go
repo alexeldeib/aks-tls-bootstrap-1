@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"os"
 
-	pb "github.com/phealy/aks-tls-bootstrap/pkg/proto"
+	pb "github.com/Azure/aks-tls-bootstrap/pkg/proto"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/oauth2"
 	"google.golang.org/grpc"

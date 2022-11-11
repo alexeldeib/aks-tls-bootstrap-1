@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt"
-	pb "github.com/phealy/aks-tls-bootstrap/pkg/proto"
+	pb "github.com/Azure/aks-tls-bootstrap/pkg/proto"
 	"github.com/sirupsen/logrus"
 	"k8s.io/client-go/kubernetes"
 	coreV1Types "k8s.io/client-go/kubernetes/typed/core/v1"

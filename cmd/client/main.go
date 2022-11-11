@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/phealy/aks-tls-bootstrap/pkg/client"
+	"github.com/Azure/aks-tls-bootstrap/pkg/client"
 	"github.com/sirupsen/logrus"
 )
 

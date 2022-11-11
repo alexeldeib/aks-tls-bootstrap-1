@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	grpc_auth "github.com/grpc-ecosystem/go-grpc-middleware/auth"
-	pb "github.com/phealy/aks-tls-bootstrap/pkg/proto"
-	server "github.com/phealy/aks-tls-bootstrap/pkg/server"
+	pb "github.com/Azure/aks-tls-bootstrap/pkg/proto"
+	server "github.com/Azure/aks-tls-bootstrap/pkg/server"
 	"github.com/sirupsen/logrus"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"

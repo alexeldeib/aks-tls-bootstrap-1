@@ -1,4 +1,4 @@
-module github.com/phealy/aks-tls-bootstrap
+module github.com/Azure/aks-tls-bootstrap
 
 go 1.18
 

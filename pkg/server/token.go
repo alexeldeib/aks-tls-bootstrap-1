@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	pb "github.com/phealy/aks-tls-bootstrap/pkg/proto"
+	pb "github.com/Azure/aks-tls-bootstrap/pkg/proto"
 	"github.com/sirupsen/logrus"
 )
 
